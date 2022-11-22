@@ -1,3 +1,0 @@
-C:/Users/alvar/Desktop/Ejercicio 3 prueba/cmake-build-debug/CMakeFiles/Ejercicio_3_prueba.dir
-C:/Users/alvar/Desktop/Ejercicio 3 prueba/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/alvar/Desktop/Ejercicio 3 prueba/cmake-build-debug/CMakeFiles/rebuild_cache.dir

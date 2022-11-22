@@ -1,3 +1,0 @@
-C:/Users/alvar/Desktop/Ejercicio 5 caracteres/cmake-build-debug/CMakeFiles/Ejercicio_5_caracteres.dir
-C:/Users/alvar/Desktop/Ejercicio 5 caracteres/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/alvar/Desktop/Ejercicio 5 caracteres/cmake-build-debug/CMakeFiles/rebuild_cache.dir
